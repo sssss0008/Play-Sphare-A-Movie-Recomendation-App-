@@ -1,0 +1,6 @@
+{
+  "name": "PlaySphere",
+  "description": "Explore and track 400+ free games with live specs, screenshots, categories, and your personal backlog vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
